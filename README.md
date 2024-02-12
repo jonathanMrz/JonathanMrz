@@ -4,7 +4,6 @@ Meu nome é Jonathan, sou um iniciante em programação e quero ser um programad
 ## 💾 GitHub status:
 ![](https://github-readme-stats.vercel.app/api?username=jonathanMrz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanMrz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonathanMrz&theme=radical&hide_border=false)
 ## 💻 Linguagens que uso:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
